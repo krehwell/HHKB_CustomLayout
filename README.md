@@ -7,7 +7,7 @@ My own keyboard customization layout
 
 ## Layout
 ### Layer 0
-![hhkb layer 0](./hhkblayer0.PNG)
+![hhkb layer 0](./images/hhkblayer0.PNG)
 
 ### Layer 1
-![hhkb layer 1](./hhkblayer1a.PNG)
+![hhkb layer 1](./images/hhkblayer1a.PNG)
